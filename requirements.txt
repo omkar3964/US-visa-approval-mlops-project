@@ -18,6 +18,7 @@ neuro_mf
 boto3
 mypy-boto3-s3
 botocore
+python-dotenv
 fastapi
 uvicorn
 jinja2
